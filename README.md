@@ -1,5 +1,10 @@
 # Resonance
 
+> A desktop music player built with web technologies
+
+![](http://i.imgur.com/DeVM9Qw.png)
+
+
 ## Install
 
  - `npm install`
@@ -10,7 +15,7 @@
 
 ---
 
-### SQLITE BUG
+#### Issue with SQLite
 
 - http://kodgemisi.com/2015/09/using-sequelize-sqlite-electron-ubuntu-linux/
 
